@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ClimateSociety"
+    }
+  },
+  "defaultProject": "ClimateSociety",
+  "cli": {
+    "analytics": "4ebe574b-0365-4443-bcaa-84186f3de670"
+  }
 }
